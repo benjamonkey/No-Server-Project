@@ -1,0 +1,70 @@
+
+.img-holder{
+  padding: 10px;
+  justify-content: center;
+  background: black;
+  flex-wrap: wrap;
+  display: flex;;
+  background-size: contain;
+  position: relative;
+}
+.img{
+  margin: 10px;
+  height: 200px;
+  width: 400px;
+  background-size: cover;
+  background-position: center center;
+
+}
+
+#hair-img{
+  background-image: url("http://www.nme.com/images/2015TwistedSister_Getty84891486080415.hero.jpg");
+  font-family: 'New Rocker', cursive;
+  color: lime;
+  font-size: 50px;
+  text-align: center;
+}
+
+#oldies-img{
+  background-image: url("http://www.cisl650.com/Pics/Calendars/1698/Primary/204890/the-beach-boys%202.jpg");
+  line-height: 40px;
+  font-size: 40px;
+  color: darkred;
+  font-family: 'Indie Flower';
+  line-height: -100px;
+
+}
+#country-img{
+  background-image: url("https://pixabay.com/static/uploads/photo/2014/05/21/15/18/musician-349790_960_720.jpg");
+  font-size: 50px;
+  color: black;
+  font-family: 'Black Ops One', cursive;
+
+
+
+}
+#rock-img{
+  background-image: url("http://wallpapercave.com/wp/Dn7Q6v4.png");
+  line-height: 200px;
+  font-size: 50px;
+  font-family: 'Lobster', cursive;
+  color: white;
+  text-align: center;
+
+}
+#electro-img{
+  background-image: url("http://www.thembj.org/wp/wp-content/uploads/2013/10/Midnight-Conspiracy-.jpg");
+  font-size: 55px;
+  line-height: 150px;
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+  text-align: center;
+
+}
+#funk-img{
+  background-image: url("http://www.asset1.net/tv/pictures/movie/saturday-night-fever-1977/Saturday-Night-Fever-DI-1.jpg");
+  line-height: 150px;
+  font-size: 50px;
+  font-family: 'Chewy', cursive;
+  text-align: center;
+}

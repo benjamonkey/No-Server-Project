@@ -1,0 +1,55 @@
+
+header {
+  height: 120px;
+  width: 100%;
+  display: flex;
+
+}
+.headerImg{
+  height: 100px;
+  width: 100px;
+}
+.Title{
+  font-family: 'Righteous', cursive;
+  font-size: 45px;
+  color: white;
+}
+
+body{
+  background: black;
+
+}
+
+footer{
+  margin-top: 30px;
+  background-color: black;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.line{
+  background: white;
+  height: 2px;
+  width: 80%;
+  margin: 0 auto;
+}
+.twitter{
+  background-size: contain;
+  background-image: url("https://g.twimg.com/dev/documentation/image/DTC_Services_1h_hero_bg.png");
+  width: 60px;
+  height: 60px;
+}
+.facebook{
+  background-size: contain;
+  background-image: url("http://png-1.findicons.com/files/icons/2779/simple_icons/1024/facebook.png");
+  width: 60px;
+  height: 60px;
+}
+.email{
+  background-size: contain;
+  background-image: url("https://proxprint.com/images/mailicon.png");
+  width: 60px;
+  height: 60px;
+}
